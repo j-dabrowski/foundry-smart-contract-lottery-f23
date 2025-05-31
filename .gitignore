@@ -12,3 +12,9 @@ docs/
 
 # Dotenv file
 .env
+
+# Cast Password file
+.password
+
+broadcast/
+lib/
